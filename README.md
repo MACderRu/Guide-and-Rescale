@@ -104,3 +104,15 @@ When the data from the `output` property of the guiders class object is stored i
 ## References & Acknowledgments
 
 The repository was started from [Prompt-to-Prompt](https://github.com/google/prompt-to-prompt/). 
+
+## Citation
+
+If you use this code for your research, please cite our paper:
+```
+@article{titov2024guideandrescale
+  title={Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing},
+  author={Vadim Titov and Madina Khalmatova and Alexandra Ivanova and Dmitry Vetrov and Aibek Alanov},
+  journal={arXiv preprint arXiv:2409.01322},
+  year={2024}
+}
+```
