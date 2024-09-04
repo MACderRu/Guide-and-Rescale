@@ -1,6 +1,6 @@
 # Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing (ECCV 2024)
 
-<a href=""><img src="https://img.shields.io/badge/arXiv-2408.12345-b31b1b.svg" height=22.5></a>
+<a href="https://arxiv.org/abs/2409.01322"><img src="https://img.shields.io/badge/arXiv-2409.01322-b31b1b.svg" height=22.5></a>
 <a href="https://huggingface.co/spaces/AIRI-Institute/Guide-and-Rescale"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg" height=22.5></a>
 <a href="https://colab.research.google.com/drive/1noKOOcDBBL_m5_UqU15jBBqiM8piLZ1O?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 [![License](https://img.shields.io/github/license/AIRI-Institute/al_toolbox)](./LICENSE)
